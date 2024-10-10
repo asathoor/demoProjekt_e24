@@ -4,6 +4,7 @@
  **/
 
 /* Define variables in the :root */
+
  :root {
    --contrast: lime;
    --backgr: #000;
@@ -16,3 +17,11 @@ main {
    background-color: var(--backgr);
  }
    */
+
+/** 
+og nu skriver bruger B noget helt genialt CSS.
+
+gemmer det og ....
+
+DRAMATISK MUSIK ... !
+*/
